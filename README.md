@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.instagram.com/the.man.of_steel?igsh=czFoemhoYzJidGxy" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/soham-chowdhury-429540320/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="chowdhury10soham@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:chowdhury10soham@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -47,3 +47,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Soham3000&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham3000&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
+---
+### 📜 Certifications
+
+<img src="./certificate.png.jpg" alt="Certificate" width="350"/>
+
+- 🏅 Introduction to MEAN Stack – Simplilearn  
+  - Issued by: Simplilearn SkillUp  
+  - Date: July 2025  
+  - Certificate ID: 8584924
